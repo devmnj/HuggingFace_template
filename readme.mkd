@@ -1,0 +1,2 @@
+This is HuggingFace AI model implementation template (Javascript and Python).
+
