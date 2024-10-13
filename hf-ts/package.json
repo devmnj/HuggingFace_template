@@ -6,7 +6,8 @@
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node test.js"
+    "dev": "node test.js",
+    "dev1": "node mistrel.js"
   },
   "author": "",
   "license": "ISC",
